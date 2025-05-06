@@ -1,0 +1,3 @@
+- [[Spreadsheets]]
+- [[sql]]
+- [[Data visualization]]

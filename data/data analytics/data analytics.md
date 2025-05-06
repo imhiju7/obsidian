@@ -1,0 +1,1 @@
+- Phân tích dữ liệu theo cách hiểu đơn giản nhất là khoa học về dữ liệu. Đó là một khái niệm rất rộng bao gồm mọi thứ, từ công việc quản lý và sử dụng dữ liệu đến các công cụ và phương pháp mà nhân viên dữ liệu sử dụng hàng ngày.

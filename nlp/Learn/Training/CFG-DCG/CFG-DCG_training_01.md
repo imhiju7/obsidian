@@ -1,0 +1,6 @@
+1. Nam ở thành phố -> [[Syntactic tree_01]]
+2. Nam đang học đại học -> [[Syntactic tree_02]]
+3. Nam đang quen Lan ở trường -> [[Syntactic tree_03]]
+4. Lan rất thích học tin học -> [[Syntactic tree_04]]
+5. Nam đang đọc sách ở thư viện -> [[Syntactic tree_05]]
+-- [[CFG-DCG_training]]

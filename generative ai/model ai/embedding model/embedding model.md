@@ -1,0 +1,3 @@
+- embedding model là một tập hợp các mô hình có thể chuyển đổi văn bản thành dạng số, được gọi là nhúng, là cách biểu thị bằng số của văn bản đầu vào. Việc nhúng giúp máy hiểu mối quan hệ giữa các từ hoặc câu dễ dàng hơn và có thể được sử dụng làm đầu vào cho các mô hình khác, chẳng hạn như mô hình phân loại hoặc mô hình phân cụm có hiệu suất tốt hơn trên dữ liệu số.
+- Các mô hình nhúng thường được sử dụng cho việc học chuyển giao, trong đó một mô hình được xây dựng cho một nhiệm vụ thay thế có rất nhiều dữ liệu và sau đó trọng số mô hình (các phần nhúng) được sử dụng lại cho các nhiệm vụ tiếp theo khác. Một ví dụ về danh mục này là phần nhúng OpenAI.
+![[Pasted image 20240618092654.png]]

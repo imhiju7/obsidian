@@ -1,0 +1,2 @@
+- Cơ sở dữ liệu là tập hợp dữ liệu được lưu trữ trong hệ thống máy tính.
+- Hhi bạn duy trì cơ sở dữ liệu về thông tin khách hàng, đảm bảo tính toàn vẹn dữ liệu, độ tin cậy và quyền riêng tư đều là những mối quan tâm quan trọng.

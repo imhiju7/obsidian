@@ -1,0 +1,3 @@
+Định nghĩa: Một lớp là một mẫu cụ thể, hoặc có thể là một nhóm các mẫu tương tự với nhau theo một cách nào đó. Trong một bài toán cụ thể, tập hợp các lớp C được định nghĩa là $C = \{C_1, C_2, \ldots, C_K\}$ , trong đó K là số lớp khác nhau.
+- **Ví dụ trong Nhận Dạng Khuôn Mặt**: Trong một bài toán nhận dạng khuôn mặt, mỗi người là một lớp của riêng họ. Ví dụ, tập hợp các lớp có thể được định nghĩa là
+    $C = \{Paul, Fieguth, Bob, Jane, Ali, \ldots\}$ .

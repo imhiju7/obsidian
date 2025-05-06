@@ -1,0 +1,7 @@
+![[Pasted image 20240627204747.png]]
+- Bước quan trọng nhất trong bất kỳ dự án nào là xác định **phạm vi** một cách chính xác và hẹp nhất có thể.
+- Khi bạn đã hài lòng và đã xác định đủ yêu cầu của mô hình để bắt đầu phát triển, quyết định đầu tiên của bạn sẽ là liệu có nên huấn luyện mô hình của riêng bạn từ đầu hay làm việc với một mô hình cơ bản hiện có.
+- Bước tiếp theo là đánh giá hiệu suất của nó và thực hiện huấn luyện bổ sung nếu cần cho ứng dụng của bạn.
+- Khi các mô hình trở nên mạnh mẽ hơn, việc đảm bảo rằng chúng hoạt động tốt và phù hợp với sở thích của con người khi triển khai trở nên ngày càng quan trọng. Một khía cạnh quan trọng của tất cả các kỹ thuật này là đánh giá.
+- Cuối cùng, khi bạn đã có một mô hình đáp ứng các yêu cầu về hiệu suất và phù hợp, bạn có thể triển khai nó vào cơ sở hạ tầng của mình và tích hợp nó với ứng dụng của bạn. Tại giai đoạn này, một bước quan trọng là tối ưu hóa mô hình của bạn cho việc triển khai.
+- Bước cuối cùng nhưng rất quan trọng là xem xét bất kỳ cơ sở hạ tầng bổ sung nào mà ứng dụng của bạn sẽ yêu cầu để hoạt động tốt. Có một số hạn chế cơ bản của LLM mà có thể khó khắc phục chỉ thông qua huấn luyện như xu hướng phát minh thông tin khi chúng không biết câu trả lời hoặc khả năng hạn chế trong việc thực hiện lập luận và toán học phức tạp.

@@ -1,0 +1,4 @@
+Các tiêu chuẩn đánh giá như [[glue]], [[superglue]], hoặc [[helm]] bao gồm một loạt các nhiệm vụ và kịch bản.
+Về cơ bản, có một cuộc chạy đua vũ trang giữa các thuộc tính nổi bật của các LLM và các tiêu chuẩn nhằm đo lường chúng. Dưới đây là một vài tiêu chuẩn gần đây đang đẩy LLM đi xa hơn.
+- [[mmlu]]
+- BIG-bench hiện bao gồm 204 nhiệm vụ, trải dài qua ngôn ngữ học, phát triển trẻ em, toán học, lý luận thông thường, sinh học, vật lý, thiên vị xã hội, phát triển phần mềm và nhiều hơn nữa. BIG-bench có ba kích thước khác nhau, và một phần lý do cho điều này là để giữ cho chi phí có thể đạt được, vì chạy các tiêu chuẩn lớn này có thể gây ra chi phí suy luận lớn.

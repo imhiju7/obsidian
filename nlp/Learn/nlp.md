@@ -1,0 +1,8 @@
+1. [[Syntactic tree]]
+2. [[Prolog]] & [[CFG_DCG]] - [[CFG-DCG_training_01]] - [[CFG_DCG_test]]
+3. [[Syntax tree]]
+4. [[Prolog]]
+5. [[Stop words]] & [[Stemming]] & [[ai/nlp/Learn/Learning/tokens]]
+6. [[Top-down_Parsing Algorithm]] - [[Top-down parsing]]
+7. [[Language Modelling]]
+8. [[Project]]

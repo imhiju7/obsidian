@@ -1,0 +1,1 @@
+- là biến thể của [[map]], trong đó các phần tử có thể lặp lại

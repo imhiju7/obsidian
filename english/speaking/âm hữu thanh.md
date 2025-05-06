@@ -1,0 +1,2 @@
+- Là những âm khi phát âm sẽ làm rung thanh quản
+- Bao gồm toàn bộ các âm nguyên âm và phụ âm còn lại trong bảng IPA, ngoại trừ 9 âm vô thanh

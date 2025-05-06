@@ -1,0 +1,2 @@
+- thường là một từ trong câu.
+	- Ví dụ: tôi đang đi học. tôi là một token

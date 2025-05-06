@@ -1,0 +1,2 @@
+- text and code generation model là mô hình tạo văn bản hoặc mã. Những mô hình này thường được sử dụng để tóm tắt văn bản, dịch thuật và trả lời câu hỏi. Các mô hình tạo văn bản thường được đào tạo trên các tập dữ liệu văn bản lớn, chẳng hạn như [[bookcorpus]] và có thể được sử dụng để tạo văn bản mới hoặc để trả lời các câu hỏi. Các mô hình tạo mã, như [[codeparrot]], thường được đào tạo trên các tập dữ liệu mã lớn, chẳng hạn như GitHub và có thể được sử dụng để tạo mã mới hoặc sửa lỗi trong mã hiện có.
+![[Pasted image 20240618092754.png]]

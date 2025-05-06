@@ -1,0 +1,1 @@
+- Là hàm giả thuyết, được cho ra từ việc huấn luyện thuật toán học máy bằng bọ dữ liệu huấn luyện

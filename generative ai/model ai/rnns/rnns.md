@@ -1,0 +1,3 @@
+- Rất mạnh về thời gian, nhưng bị giới hạn bởi số lượng tính toán và bộ nhớ cần thiết để thực hiện tốt các nhiệm vụ tạo sinh
+- Để dự đoán từ tiếp theo, chúng ta cần dữ liệu những từ trước đó, thậm chí là cả tài liệu chứa nó. Ngoài ra, ngôn ngữ rất phức tạp
+- Các từ trong cấu trúc câu có thể mơ hồ hoặc có cái mà chúng ta gọi là [[hallucination]]

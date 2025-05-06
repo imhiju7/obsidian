@@ -1,0 +1,7 @@
+- Kĩ năng phân tích là phẩm chất, đặc điểm liên quan đến việc giải quyết vấn đề bằng cách sử dụng sự thật
+- Skills
+	- Curiosity (Sự tò mò): Là muốn tìm hiểu gì đó.
+	- Understanding context (Hiểu biết bối cảnh): Là điều kiện khi có gì đó xảy ra hoặc tồn tại. Đây có thể là một cấu trúc hoặc một môi trường.
+	- Having technical mindset (Có tư duy kĩ thuật): Bao gồm khả năng chia mọi thứ thành các bước hoặc phần nhỏ hơn và làm việc với chúng một cách có trật tự và hợp lý.
+	- Data design (Thiết kế dữ liệu): Là cách chúng ta tổ chức thông tin.
+	- Data strategy (Chiến lược dữ liệu): Là quản lý con người, quy trình và công cụ được sử dụng trong phân tích dữ liệu.

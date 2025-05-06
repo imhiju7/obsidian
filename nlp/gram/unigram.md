@@ -1,0 +1,1 @@
+- tương đương với một từ đơn

@@ -1,0 +1,5 @@
+- Phân tích dữ liệu có mặt ở nhiều lĩnh vực
+	- Dự đoán thời tiết mưa hay không
+	- Đưa ra khi nào cửa hàng đông khách nhất và ít khách nhất
+	- Đưa ra thông tin nguồn nhân lực công ty
+	- ...

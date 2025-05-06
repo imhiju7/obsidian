@@ -1,0 +1,1 @@
+- Là các tổ chức dành riêng cho việc thúc đẩy một nguyên nhân xã hội hay một nỗ lực cụ thể như an ninh lương thực, giáo dục hoặc nghệ thuật.

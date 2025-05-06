@@ -1,0 +1,6 @@
+- từ chỉ định
+- this + $N_{số ít}$: chỉ vật ở gần
+- that +$N_{số ít}$: chỉ vật ở xa
+- these + $N_{số nhiều}$: chỉ nhóm vật ở gần
+- those + $N_{số nhiều}$: chỉ nhóm vật ở xa
+- this/that hay these/those có thể không cần thêm danh từ phía sau khi đã xác định được vật thể mà ta nói đến

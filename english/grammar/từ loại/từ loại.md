@@ -1,0 +1,1 @@
+- [[subject]] + [[english/grammar/từ loại/verb/verb]] + [[object]] + từ chỉ thời gian/ nơi chốn = Maria is playing guitar at home

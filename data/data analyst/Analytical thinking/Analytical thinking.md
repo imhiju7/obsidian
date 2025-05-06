@@ -1,0 +1,14 @@
+- Liên quan đến việc nhận dạng và định nghĩa và giải quyết chúng bằng cách sử dụng dữ liệu có tổ chức, từng bước một.
+- Các khía cạnh quan trọng trong tư duy phân tích
+	- Visualization ( hình dung ): Là biểu diễn đồ họa thông tin, ví dụ: Đồ thị, bản đồ, ... Giúp cho nhà phân tích dữ liệu hiểu và giải thích thông tin hiệu quả hơn
+	- Strategy ( chiến lược ): Việc lập chiến lược giúp nhà phân tích dữ liệu thấy những gì họ muốn đạt được với dữ liệu và cách để họ có thể đạt được điều đó.
+	- Problem-orientation ( định hướng vấn đề ): Các nhà phân tích dữ liệu dùng phương pháp xác định, mô tả, giải quyết vấn đề.  
+	- Correlation ( mối tương quan ): Tương tự như mối quan hệ. Lưu ý: Mối tương quan không có quan hệ nhân quả bằng nhau.
+		- Chỉ vì 2 mẫu dữ liệu có xu hướng hướng cùng một hướng. Không có nghĩa là chúng  đều liên quan
+	- Big-picture and detail-oriented thinkinh ( tư duy tổng thể và tư duy định hướng chi tiết ): Nhìn thấy một bức tranh lớn cũng như chi tiết. Có nghĩa là thưởng thức một bức tranh lớn nhưng không bị mắc kẹt ở các chi tiết riêng lẻ cùng tạo nên một bức tranh lớn.
+
+ - Bạn cần suy nghĩ chín chắn ( critical thinking ) để tìm ra những câu hỏi phù hợp để hỏi. Các câu hỏi mà các nhà phân tích thường hỏi để tìm giải pháp:
+	 - What is the root cause problem ( Nguyên nhân gốc rễ dẫn tới vấn đề là gì ? ). 5 câu hỏi why ? 
+	 - Where are the gaps in our process ? ( Những lỗ hổng trong qui trình của chúng tôi ở đâu ?)
+		 - [[Gaps analysis]] ( phân tích khoảng cách )
+	- What did we not consider before ? ( Điều gì chúng ta chưa xem xét trước đây ?)

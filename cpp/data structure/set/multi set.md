@@ -1,0 +1,1 @@
+- là một biến thể của set, và các phần tử trong đó có thể trùng nhau

@@ -1,0 +1,3 @@
+- Ý tưởng là cung cấp đủ ngữ cảnh khi bạn nhắc để đảm bảo bạn nhận được phản hồi mình cần.
+	- LLM được đào tạo trước hoạt động rất tốt trong các nhiệm vụ ngôn ngữ tự nhiên tổng quát, thậm chí bằng cách gọi chúng bằng một lời nhắc ngắn, chẳng hạn như một câu cần hoàn thành hoặc một câu hỏi – cái gọi là "[[zero-shot learning]]".
+	- Tuy nhiên, người dùng càng có thể đóng khung truy vấn của mình, với yêu cầu và ví dụ chi tiết – Ngữ cảnh – thì câu trả lời sẽ càng chính xác và gần nhất với mong đợi của người dùng. Trong trường hợp này, chúng ta nói về việc "[[one-shot learning]]" nếu lời nhắc chỉ bao gồm một ví dụ và "[[few-shot learning]]" nếu nó bao gồm nhiều ví dụ. Kỹ thuật nhanh chóng với bối cảnh là cách tiếp cận hiệu quả nhất về mặt chi phí để bắt đầu.

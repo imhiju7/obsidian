@@ -1,0 +1,24 @@
+- Cách phát âm những từ có kết thúc bằng chữ s:
+	- âm cuối của chữ gốc là âm hữu thanh thì được đọc theo cách hữu thanh /z/
+	- âm cuối của chữ gốc là âm vô thanh thì được đọc theo cách vô thanh /s/, chỉ áp dụng với các âm vô thanh như /θ/, /p/, /k/, /f/, /t/
+- Xu hướng phát âm /θ/ thành âm /th/ hoặc /t/ giống tiếng việt. ví dụ: thanks -> thanhs/tanks
+- Xu hướng phát âm /ð/ thành âm d/đ trong tiếng việt
+	- 1. Phát âm /d/ như tiếng việt
+	- 2. Đưa lưỡi ra ngoài, đặt lưỡi giữa 2 hàm răng
+	- 3. Thổi hơi qua phần tiếp xúc giữa lưỡi và hai răng
+- Những từ dễ phát âm sai
+	- island /ˈaɪ.lənd/ hòn đảo
+	- question  /ˈkwes.tʃən/ câu hỏi
+	- chef /ʃef/ đầu bếp
+	- stomach /ˈstʌm.ək/ dạ dày
+	- chaos /ˈkeɪ.ɒs/ sự hỗn loạn
+	- comfortable  /ˈkʌm.fə.tə.bəl/ sự thoải mái
+	- vegetable /ˈvedʒ.tə.bəl/ rau
+	- foreigner /ˈfɒr.ə.nər/ người nước ngoài
+	- vehicle /ˈvɪə.kəl/ xe cộ
+	- women /ˈwɪm.ɪn/ phụ nữ
+	- colleague /ˈkɒl.iːɡ/ đồng nghiệp
+	- clothes /kləʊðz/ quần áo
+	- recipe /ˈres.ɪ.pi/ công thức
+	- pizza /ˈpiːt.sə/ bánh pizza
+	- pretty /ˈprɪt.i/ xinh đẹp

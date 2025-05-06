@@ -1,0 +1,3 @@
+- Lời nhắc của bạn bao gồm một vấn đề ví dụ tương tự, kèm theo giải pháp, để giúp mô hình hiểu nhiệm vụ thông qua suy luận một lần.
+- Một chiến lược đã cho thấy một số thành công là yêu cầu mô hình suy nghĩ giống như con người hơn, bằng cách chia nhỏ vấn đề thành các bước.
+- Yêu cầu mô hình bắt chước hành vi này được gọi là chain of thought prompting. 

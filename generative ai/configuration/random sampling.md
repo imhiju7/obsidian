@@ -1,0 +1,1 @@
+- mô hình chọn một từ đầu ra ngẫu nhiên sử dụng phân phối xác suất để trọng số lựa chọn

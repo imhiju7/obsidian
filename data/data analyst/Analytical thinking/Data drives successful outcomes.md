@@ -1,0 +1,10 @@
+- [[Data-driven decision-making]] sử dụng dữ kiện để định hướng chiến lược kinh doanh.
+- Với dữ liệu, ta có thể đạt được những hiểu biết có giá trị, xác minh lí thuyết hoặc giả định, hiểu rõ hơn về cơ hội và thách thức, hỗ trợ mục tiêu, giúp lập kế hoạch,...
+- Skills
+	- Curiosity (Sự tò mò): Là muốn tìm hiểu gì đó.
+		- Bạn càng tìm hiểu về sức mạnh của dữ liệu. Bạn càng tò mò hơn
+	- Understanding context (Hiểu biết bối cảnh): Là điều kiện khi có gì đó xảy ra hoặc tồn tại. Đây có thể là một cấu trúc hoặc một môi trường.
+	- Having technical mindset (Có tư duy kĩ thuật): Bao gồm khả năng chia mọi thứ thành các bước hoặc phần nhỏ hơn và làm việc với chúng một cách có trật tự và hợp lý.
+		- Mọi người đều có guts feeling và Data analyst cũng vậy nhưng họ được rèn luyện để làm việc trên những cảm xúc đó và sử dụng một cách tiếp cận kỹ thuật hơn để khám phá chúng 
+	- Data design (Thiết kế dữ liệu): Là cách chúng ta tổ chức thông tin làm sao cho các nhà phân tích dữ liệu có thể tiếp cận. 
+	- Data strategy (Chiến lược dữ liệu): Là quản lý con người, quy trình và công cụ được sử dụng trong phân tích dữ liệu.

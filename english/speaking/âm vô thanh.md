@@ -1,0 +1,11 @@
+- Là những âm mà khi phát âm "không làm rung thanh quản", chỉ đơn giản là những tiếng động nhẹ như tiếng xì xì, tiếng bật, tiếng gió.
+- Có 9 âm vô thanh:
+	- /p/ - voiceless bilabial plosive (as in "pen")
+	- /t/ - voiceless alveolar plosive (as in "top")
+	- /k/ - voiceless velar plosive (as in "cat")
+	- /f/ - voiceless labiodental fricative (as in "fan")
+	- /θ/ - voiceless dental fricative (as in "thin")
+	- /s/ - voiceless alveolar fricative (as in "sun")
+	- /ʃ/ - voiceless postalveolar fricative (as in "ship")
+	- /x/ - voiceless velar fricative (as in Scottish "loch")
+	- /h/ - voiceless glottal fricative (as in "hat")

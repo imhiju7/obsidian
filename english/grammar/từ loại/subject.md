@@ -1,0 +1,2 @@
+- chủ ngữ là từ hoặc vật thực hiện hành động nào đó
+- [[noun]]

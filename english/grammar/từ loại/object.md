@@ -1,0 +1,2 @@
+- là vật hoặc người được đặt ở vị trí sau [[english/grammar/từ loại/verb/verb]]. Chịu ảnh hưởng từ hành động của [[english/grammar/từ loại/verb/verb]]
+- [[noun]]

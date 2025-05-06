@@ -1,0 +1,16 @@
+- Programming language: [[python]], [[r]],[[cpp]]
+- [[algorithm]]
+- [[nlp]]
+- [[stable diffusion]]
+- AI development tool: [[py-torch]], [[Scikit-learn]]
+- Cloud platforms: [[aws], [[azure]], [[google cloud]]
+- Software skills: 
+	- Framework: [[spring boot]], [[hibernate]], [[spring core]]
+	- [[sql]], [[nosql]]
+- Data skills
+	- [[numpy]], [[pandas]], [[matplotlib]], [[seaborn]]
+	- [[spark]]
+	- [[hadoop]]
+- [[machine learning]]
+- [[deep learning]]
+- [[generative ai]]

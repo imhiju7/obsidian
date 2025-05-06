@@ -1,0 +1,2 @@
+- Hệ thống chống khuyến nghị tập trung vào việc tránh đề xuất những lựa chọn không phù hợp, không liên quan hoặc có thể gây phản tác dụng. Khác với [[Recommendation System]]
+- 

@@ -1,0 +1,2 @@
+- Nói chung, nhiệt độ càng cao, sự ngẫu nhiên càng cao, và nhiệt độ càng thấp, sự ngẫu nhiên càng thấp.
+- giá trị nhiệt độ là một hệ số tỷ lệ được áp dụng trong lớp softmax cuối cùng của mô hình, ảnh hưởng đến hình dạng của phân phối xác suất cho token tiếp theo.

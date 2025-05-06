@@ -1,0 +1,1 @@
+bạn cũng có thể kết hợp [[lora]] với các kỹ thuật [[quantization]] mà bạn đã học trong tuần 1 để giảm thêm kích thước bộ nhớ. Điều này được gọi là QLoRA.

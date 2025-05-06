@@ -1,0 +1,1 @@
+- cho biết [[subject]] đang thực hiện hành động gì

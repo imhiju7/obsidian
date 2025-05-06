@@ -1,0 +1,5 @@
+- đi qua các cạnh của đồ thị, mỗi cạnh một lần
+- dấu hiệu
+	- tất cả các đỉnh của đồ thị có bậc chẵn
+- đường đi euler
+	- có đúng 2 đỉnh bậc lẻ

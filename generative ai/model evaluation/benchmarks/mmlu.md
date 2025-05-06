@@ -1,0 +1,1 @@
+- Massive Multitask Language Understanding, hay MMLU, được thiết kế đặc biệt cho các LLM hiện đại. Để thực hiện tốt, các mô hình phải sở hữu kiến thức thế giới rộng rãi và khả năng giải quyết vấn đề. Các mô hình được kiểm tra về toán học cơ bản, lịch sử Hoa Kỳ, khoa học máy tính, luật pháp, và nhiều hơn nữa. Nói cách khác, các nhiệm vụ vượt ra ngoài hiểu biết ngôn ngữ cơ bản.

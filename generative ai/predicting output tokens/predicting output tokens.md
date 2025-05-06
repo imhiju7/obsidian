@@ -1,0 +1,1 @@
+- Cho n mã thông báo làm đầu vào (với n tối đa thay đổi từ mô hình này sang mô hình khác), mô hình có thể dự đoán một mã thông báo làm đầu ra. Mã thông báo này sau đó được tích hợp vào đầu vào của lần lặp tiếp theo, theo kiểu cửa sổ mở rộng, mang lại trải nghiệm tốt hơn cho người dùng khi nhận được một (hoặc nhiều) câu làm câu trả lời.

@@ -1,0 +1,4 @@
+- Model nhận input là text và cho ra out put thường là text. Nhưng chúng làm việc hiệu quả hơn với số
+- Tokenization là việc chúng ta chuyển câu thành các token. sau khi tách từ thành công, ta chuyển chúng về dạng số với mỗi [[tokens]]. Để model dễ dàng xử lý và hiểu
+- [[llms]] xem lời nhắc dưới dạng một chuỗi mã thông báo trong đó các mô hình khác nhau (hoặc phiên bản của mô hình) có thể mã hóa cùng một lời nhắc theo những cách khác nhau. Vì LLM được đào tạo về mã thông báo (chứ không phải trên văn bản thô), nên cách mã thông báo nhắc nhở có tác động trực tiếp đến chất lượng của phản hồi được tạo
+![[Pasted image 20240619101406.png]]

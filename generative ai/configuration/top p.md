@@ -1,0 +1,2 @@
+- top p để giới hạn [[random sampling]] vào các dự đoán có xác suất cộng lại không vượt quá p
+- Giúp duy trì đầu ra hợp lý trong khi vẫn cho phép một số biến đổi.

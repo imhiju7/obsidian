@@ -1,0 +1,1 @@
+- là các thực thể nhân tạo có khả năng cảm nhận môi trường của chúng, đưa ra quyết định và thực hiện hành động. Các tác nhân AI có mục đích chung (general-purpose AI agents) dựa trên LLM có thể thực hiện nhiều nhiệm vụ khác nhau bằng cách sử dụng các khả năng ngôn ngữ mạnh mẽ của chúng.

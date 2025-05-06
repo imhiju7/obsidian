@@ -1,0 +1,1 @@
+- đi qua tất cả các đỉnh của đồ thị, mỗi đỉnh một lần

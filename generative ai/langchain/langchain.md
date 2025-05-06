@@ -1,0 +1,7 @@
+- Khung LangChain cung cấp cho bạn các mảnh mô-đun chứa các thành phần cần thiết để làm việc với LLMs. Các thành phần này bao gồm các mẫu lời nhắc cho nhiều trường hợp sử dụng khác nhau mà bạn có thể sử dụng để định dạng cả các ví dụ đầu vào và các phần hoàn thành của mô hình. Và bộ nhớ mà bạn có thể sử dụng để lưu trữ các tương tác với một LLM. 
+![[Pasted image 20240705140406.png]]
+- Khung này cũng bao gồm các công cụ được xây dựng sẵn cho phép bạn thực hiện một loạt các tác vụ, bao gồm các cuộc gọi đến các tập dữ liệu bên ngoài và các API khác nhau.
+![[Pasted image 20240705140539.png]]
+Trong trường hợp này, bạn không thể sử dụng một chuỗi được xác định trước, mà thay vào đó sẽ cần sự linh hoạt để quyết định các hành động nào cần thực hiện khi người dùng di chuyển qua quy trình làm việc. 
+LangChain định nghĩa một cấu trúc khác, được gọi là agent, mà bạn có thể sử dụng để diễn giải đầu vào từ người dùng và xác định công cụ hoặc các công cụ nào để sử dụng để hoàn thành tác vụ. 
+LangChain hiện bao gồm các agent cho cả [[program-aided language models]] và [[react]], trong số các công cụ khác. Agents có thể được tích hợp vào chuỗi để thực hiện một hành động hoặc lên kế hoạch và thực hiện một loạt các hành động

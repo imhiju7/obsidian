@@ -1,0 +1,2 @@
+- hướng dẫn mô hình chọn chỉ từ k token có xác suất cao nhất
+- Cân bằng giữa sự ngẫu nhiên và tính hợp lý.

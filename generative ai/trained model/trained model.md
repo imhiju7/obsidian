@@ -1,0 +1,1 @@
+- Đào tạo LLM từ đầu chắc chắn là cách tiếp cận khó nhất và phức tạp nhất để áp dụng, đòi hỏi lượng dữ liệu khổng lồ, nguồn lực lành nghề và sức mạnh tính toán phù hợp. Tùy chọn này chỉ nên được xem xét trong trường hợp doanh nghiệp có trường hợp sử dụng dành riêng cho tên miền và một lượng lớn dữ liệu tập trung vào tên miền.

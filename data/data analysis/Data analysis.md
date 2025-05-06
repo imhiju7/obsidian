@@ -1,0 +1,1 @@
+- Phân tích dữ liệu là việc thu thập, chuyển đổi và tổ chức dữ liệu để đưa ra kết luận, đưa ra dự đoán và thúc đẩy việc ra quyết định sáng suốt.

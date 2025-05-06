@@ -1,0 +1,1 @@
+ Khi muốn tìm [[module]] khi chia tổng của 1 mảng cho k. Ta thực hiện tính tổng phần dư của mỗi phần tử trong mảng khi chia cho k. Sau đó lấy tổng đó chia dư cho k. Ta được kết quả.

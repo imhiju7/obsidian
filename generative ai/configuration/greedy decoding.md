@@ -1,0 +1,1 @@
+- Đây là hình thức đơn giản nhất của dự đoán từ tiếp theo, nơi mô hình sẽ luôn chọn từ có xác suất cao nhất.

@@ -1,0 +1,2 @@
+- GLUE, hay General Language Understanding Evaluation, được giới thiệu vào năm 2018. GLUE là một bộ sưu tập các nhiệm vụ ngôn ngữ tự nhiên, như phân tích cảm xúc và trả lời câu hỏi. 
+- GLUE được tạo ra để khuyến khích sự phát triển của các mô hình có thể tổng quát hóa trên nhiều nhiệm vụ, và bạn có thể sử dụng tiêu chuẩn này để đo lường và so sánh hiệu suất của mô hình.

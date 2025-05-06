@@ -1,0 +1,1 @@
+- Mối khi lưu trữ lại trạng thái hiện tại của project, [[git]] sẽ chụp 1 bức ảnh để lưu trữ trạng thái hiện tại của project vào thời điểm đó.

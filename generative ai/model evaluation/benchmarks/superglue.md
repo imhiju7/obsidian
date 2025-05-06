@@ -1,0 +1,1 @@
+Là bản kế thừa của [[glue]], SuperGLUE được giới thiệu vào năm 2019 để khắc phục các hạn chế của người tiền nhiệm. Nó bao gồm một loạt các nhiệm vụ, một số trong đó không có trong GLUE, và một số khác là các phiên bản thách thức hơn của các nhiệm vụ tương tự. SuperGLUE bao gồm các nhiệm vụ như lý luận đa câu và đọc hiểu.

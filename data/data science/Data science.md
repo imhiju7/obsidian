@@ -1,0 +1,2 @@
+- Khoa học dữ liệu là một thuật ngữ bao trùm ba lĩnh vực: học máy, thống kê và phân tích.
+- Học máy được sử dụng để tự động hóa các quyết định, số liệu thống kê được sử dụng để đưa ra quyết định trong điều kiện không chắc chắn,và phân tích được sử dụng để khám phá dữ liệu và tìm thông tin chi tiết.

@@ -1,0 +1,1 @@
+- Để tìm [[gcd]]/[[lcm]] cho n số. Ta tìm ước/bội cho 2 số đầu tiên của dãy, sau đó tìm ước chung/bội chung của [[gcd]]/[[lcm]] số đầu tiên, số thứ hai với số thứ 3. Xét đến n số, ta tìm được [[gcd]]/[[lcm]] của dãy

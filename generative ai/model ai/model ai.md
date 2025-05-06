@@ -1,0 +1,1 @@
+- Các mô hình chỉ là Mạng nơ-ron, với các tham số, trọng số và các thứ khác. Tuy nhiên, việc cho phép các công ty hoạt động tại địa phương sẽ cần phải mua thiết bị, xây dựng cơ cấu để mở rộng quy mô và mua giấy phép hoặc sử dụng mô hình nguồn mở. Một mô hình như LLaMA có sẵn để sử dụng, đòi hỏi sức mạnh tính toán để chạy mô hình.

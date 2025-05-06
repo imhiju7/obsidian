@@ -1,0 +1,3 @@
+- Khoa học dữ liệu ([[Data sciencetist]]) được định nghĩa là tạo ra những cách mới để mô hình hóa và hiểu những điều chưa biết bằng cách sử dụng dữ liệu thô.
+- Các nhà khoa học dữ liệu tạo ra các câu hỏi mới bằng cách sử dụng dữ liệu, trong khi các nhà phân tích tìm câu trả lời cho các câu hỏi hiện có bằng cách tạo ra những hiểu biết sâu sắc từ các nguồn dữ liệu
+- Phân tích dữ liệu ([[Data analysis]]) và phân tích dữ liệu ([[data analytics]]) nghe có vẻ giống nhau nhưng thực chất chúng là những thứ rất khác nhau.

@@ -1,0 +1,2 @@
+LLM được điều chỉnh hướng dẫn bắt đầu bằng mô hình nền tảng và tinh chỉnh nó bằng các ví dụ hoặc cặp đầu vào/đầu ra (ví dụ: "thông báo" nhiều lượt) có thể chứa hướng dẫn rõ ràng - và phản hồi từ AI cố gắng làm theo hướng dẫn đó.
+- Điều này sử dụng các kỹ thuật như Học tăng cường với phản hồi của con người (RLHF) có thể huấn luyện mô hình làm theo hướng dẫn và học hỏi từ phản hồi để tạo ra phản hồi phù hợp hơn với các ứng dụng thực tế và phù hợp hơn với mục tiêu của người dùng.

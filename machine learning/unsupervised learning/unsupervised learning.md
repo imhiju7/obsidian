@@ -1,0 +1,3 @@
+- Là việc cho thuật toán học máy học bộ dữ liệu không có kết quả đầu ra ( không gán nhãn ). Sau đó cho chúng phân loại các bộ dữ liệu mới.
+- Thường sử dụng ở bài toán [[classification]]
+- Ví dụ: Mỗi khi có 1 trang web mới được deploy lên thì thuật toán sẽ tự phân loại và gom nhóm chúng vào 1 mục nào đó

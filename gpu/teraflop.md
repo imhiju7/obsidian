@@ -1,0 +1,1 @@
+- Một teraflop ptương ứng với một nghìn tỷ phép toán dấu phẩy động mỗi giây.

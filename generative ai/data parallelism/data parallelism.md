@@ -1,0 +1,1 @@
+Data parallelism là một chiến lược phân chia dữ liệu đào tạo trên nhiều GPU. Mỗi GPU xử lý đồng thời một tập hợp con dữ liệu khác nhau, điều này có thể tăng tốc đáng kể thời gian đào tạo tổng thể.

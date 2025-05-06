@@ -1,0 +1,1 @@
+- Là một kho lưu trữ thông tin cần thiết để quản lí, sửa đổi, lịch sử của project bao gồm dữ liệu, mã nguồn và các file liên quan khác. Gồm có 2 loại [[local repository]] và [[remote repository]]

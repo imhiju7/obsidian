@@ -1,0 +1,2 @@
+- image generation model là mô hình tạo ra hình ảnh. Những mô hình này thường được sử dụng để chỉnh sửa hình ảnh, tổng hợp hình ảnh và dịch hình ảnh. Các mô hình tạo hình ảnh thường được đào tạo trên các tập dữ liệu hình ảnh lớn, chẳng hạn như [[laion]]-5B và có thể được sử dụng để tạo hình ảnh mới hoặc chỉnh sửa hình ảnh hiện có bằng các [[inpainting technique]], siêu phân giải và tô màu. Ví dụ bao gồm các mô hình [[dall-e]]-3 và Khuếch tán ổn định.
+	![[Pasted image 20240618092641.png]]

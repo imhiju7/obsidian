@@ -1,0 +1,1 @@
+- (Số lượng token mới tối đa) có lẽ là tham số đơn giản nhất trong số này, và bạn có thể sử dụng nó để giới hạn số lượng token mà mô hình sẽ tạo ra.

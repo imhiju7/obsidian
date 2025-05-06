@@ -1,0 +1,2 @@
+- trước hàm getline nếu trước đó nhập vào có phím enter thừa thì phải thêm câu lệnh cin.ignore() trước hàm getline để loại bỏ kí tự trong bộ đệm bàn phím ( ở đây là enter)
+- lưu ý: không nên dùng câu lệnh cin.ignore() nếu như trước hàm getline không nhận kí tự trong bộ đệm bàn phím, nếu thực hiện thì nó sẽ loại bỏ kí tự đầu tiên của chuỗi mà bạn nhập vào từ hàm getline
